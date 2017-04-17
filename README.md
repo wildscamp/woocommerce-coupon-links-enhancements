@@ -2,10 +2,17 @@
 
 ![The Wilds Logo](https://avatars1.githubusercontent.com/u/11079956?v=3&s=115)
 
-This extension is intended to add some enhancements to the great 
-[WooCommerce Coupon Links](https://github.com/cedaro/woocommerce-coupon-links) extension.
-So if you plan on using the extension, be sure to also install and activate that
-extension or you won't get much from this one.
+This extension augments the
+[WooCommerce Coupon Links](https://github.com/cedaro/woocommerce-coupon-links)
+plugin with additional enhancements. A listing of those enhancements can be found
+below.
+
+Pre-Requisites
+----
+
+* Installation and activation of the [WooCommerce Coupon Links](https://github.com/cedaro/woocommerce-coupon-links)
+  extension. If it is not installed or activated, this extension will not accomplish
+  anything.
 
 Features
 ----

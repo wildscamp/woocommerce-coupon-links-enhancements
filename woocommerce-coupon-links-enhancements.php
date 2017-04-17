@@ -11,7 +11,7 @@
  * @wordpress-plugin
  * Plugin Name:       WooCommerce Coupon Links Enhancements
  * Plugin URI:        https://github.com/wildscamp/woocommerce-coupon-links-enhancements
- * Description:       Add some additional features to the https://github.com/cedaro/woocommerce-coupon-links plugin.
+ * Description:       Augments the https://github.com/cedaro/woocommerce-coupon-links plugin with additional features and enhancements.
  * Version:           1.0.0
  * Author:            The Wilds
  * Author URI:        https://www.wilds.org/
